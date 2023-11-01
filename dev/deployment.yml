@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: echo
-        image: hashicorp/http-echo
+        image: nanajanashia/argocd-app:1
         ports:
         - containerPort: 8080
