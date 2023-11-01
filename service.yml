@@ -6,6 +6,6 @@ spec:
   selector:
     app: argocd
   ports:
-  - port: 8080
+  - port: 7070
     protocol: TCP
     targetPort: 8080
