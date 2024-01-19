@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: myapp
+        app: hello-world
     spec:
       containers:
       - name: hello-world
